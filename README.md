@@ -70,3 +70,4 @@ Status `204 No Content` on success.
 {
 }
 ```
+https://elements.getpostman.com/redirect?entityId=38237977-addc38fc-91d1-4b76-ae98-de5d6b334b61&entityType=collection
